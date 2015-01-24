@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<global:GlobalSetting xmlns:global="http://lumaqq.tsinghua.edu/ecore/edu/tsinghua/lumaqq/ecore/global" language="zh">
+  <servers>
+    <TCPServer>tcpconn.tencent.com</TCPServer>
+    <TCPServer>tcpconn2.tencent.com</TCPServer>
+    <TCPServer>tcpconn3.tencent.com</TCPServer>
+    <TCPServer>tcpconn4.tencent.com</TCPServer>
+    <TCPServer>219.133.38.5</TCPServer>
+    <TCPServer>218.17.209.23</TCPServer>
+    <UDPServer>sz.tencent.com</UDPServer>
+    <UDPServer>sz2.tencent.com</UDPServer>
+    <UDPServer>sz3.tencent.com</UDPServer>
+    <UDPServer>sz4.tencent.com</UDPServer>
+    <UDPServer>sz5.tencent.com</UDPServer>
+    <UDPServer>sz6.tencent.com</UDPServer>
+    <UDPServer>sz7.tencent.com</UDPServer>
+    <UDPServer>61.144.238.155</UDPServer>
+    <UDPServer>61.144.238.156</UDPServer>
+    <UDPServer>202.96.170.163</UDPServer>
+    <UDPServer>202.96.170.164</UDPServer>
+    <UDPServer>219.133.38.129</UDPServer>
+    <UDPServer>219.133.38.130</UDPServer>
+    <UDPServer>219.133.38.43</UDPServer>
+    <UDPServer>219.133.38.44</UDPServer>
+    <UDPServer>219.133.40.215</UDPServer>
+    <UDPServer>219.133.40.216</UDPServer>
+    <UDPServer>219.133.48.100</UDPServer>
+  </servers>
+  <robots>
+    <robot class="edu.tsinghua.lumaqq.qq.robot.DummyRobot" name="Dummy Robot"/>
+  </robots>
+</global:GlobalSetting>

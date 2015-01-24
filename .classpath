@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="SWT_CONTAINER/PLATFORM" kind="con"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.5" kind="con"/>
+	<classpathentry path="lib/org.eclipse.emf.common_2.2.0.v200606271057.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.emf.ecore_2.2.0.v200606271057.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.emf.ecore.xmi_2.2.0.v200606271057.jar" kind="lib"/>
+	<classpathentry path="lib/commons-codec.jar" kind="lib"/>
+	<classpathentry path="lib/commons-logging.jar" kind="lib"/>
+	<classpathentry path="lib/jdom.jar" kind="lib"/>
+	<classpathentry path="lib/log4j-1.2.8.jar" kind="lib"/>
+	<classpathentry path="lib/poifs.jar" kind="lib"/>
+	<classpathentry path="lib/xerces.jar" kind="lib"/>
+	<classpathentry path="lib/je.jar" kind="lib"/>
+	<classpathentry path="lib/commons-httpclient.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.osgi_3.3.0.v20061213.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.jface_3.3.0.I20061213-0010.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.core.commands_3.3.0.I20061114.jar" kind="lib"/>
+	<classpathentry path="lib/equimox.jar" kind="lib"/>
+	<classpathentry path="lib/org.eclipse.ui.workbench_3.3.0.I20061214-1400.jar" kind="lib"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>
